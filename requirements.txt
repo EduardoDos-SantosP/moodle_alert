@@ -1,0 +1,6 @@
+selenium~=4.9.1
+webdriver_manager
+dotenv
+python-telegram-bot
+python-dotenv~=1.0.0
+telegram
